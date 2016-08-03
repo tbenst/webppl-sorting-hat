@@ -1,0 +1,6 @@
+{
+  "name": "webppl-sorting-hat",
+  "version": "0.0.1",
+  "description": "WebPPL library for spike sorting",  
+  "main": "src/library.js",
+}
